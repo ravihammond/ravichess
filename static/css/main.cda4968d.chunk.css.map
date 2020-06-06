@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","DesktopApp.css"],"names":[],"mappings":"AAAA,UACE,wBACF,CAEA,MACE,UAAW,CACX,WACF,CCPA,YACE,qBAAsB,CACtB,WACF","file":"main.cda4968d.chunk.css","sourcesContent":["html, body {\n  background-color: #52504d;\n}\n\n#root {\n  width: 100%;\n  height: 100%;\n}\n",".desktopApp {\n  background-color: blue;\n  height: 100%;\n}\n"]}
