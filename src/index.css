@@ -1,0 +1,11 @@
+html, body {
+  background-color: #52504d;
+}
+
+#root {
+  height: 100%;
+}
+
+.hello {
+  height: 100%;
+}

@@ -1,13 +1,12 @@
-import "./DesktopApp.css";
 import React, { Component } from 'react';
 
 import Board from './Board';
 
-class DesktopApp extends Component {
+class MobileApp extends Component {
   render() {
     return (
-      <div className="desktopApp">
-        <h1>ravichess desktop</h1>
+      <div className="ui container">
+        <h1>ravichess mobile</h1>
         <Board />
         <p>buttons</p>
       </div>
@@ -15,4 +14,4 @@ class DesktopApp extends Component {
   }
 }
 
-export default DesktopApp;
+export default MobileApp;
