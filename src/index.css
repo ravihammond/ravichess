@@ -1,11 +1,7 @@
 html, body {
-  background-color: #52504d;
+  background-color: #373735;
 }
 
 #root {
-  height: 100%;
-}
-
-.hello {
   height: 100%;
 }
