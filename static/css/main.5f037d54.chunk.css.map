@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","DesktopApp.css"],"names":[],"mappings":"AAAA,UACE,wBACF,CAMA,aACE,WACF,CCVA,YACE,qBAAsB,CACtB,WACF","file":"main.5f037d54.chunk.css","sourcesContent":["html, body {\n  background-color: #52504d;\n}\n\n#root {\n  height: 100%;\n}\n\n.hello {\n  height: 100%;\n}\n",".desktopApp {\n  background-color: blue;\n  height: 100%;\n}\n"]}
